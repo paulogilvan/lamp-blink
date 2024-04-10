@@ -1,0 +1,26 @@
+body {
+    background-color: #000;
+}
+
+.lamp {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    height: 400px;
+}
+
+form {
+    display: flex;
+    justify-content: center;    
+}
+
+form input {
+    display: flex;
+    margin: 15px;
+    padding: 8px;
+    font-size: 24px;
+    background-color: rgb(233, 199, 136);
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+}
